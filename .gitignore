@@ -1,1 +1,4 @@
 .env
+5_bwa_image.ipynb
+# exclude python virtual environment directory
+.venv/
